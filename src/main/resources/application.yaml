@@ -1,0 +1,12 @@
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+server:
+  port: 8888
+env:
+  path: /Users/ognerezov/Temp/source
+  output: /Users/ognerezov/Dropbox/999/sonnik
+  extension: html
+  output-extension: tsv
+  threads: 5
